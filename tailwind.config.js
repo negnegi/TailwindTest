@@ -4,6 +4,7 @@ module.exports = {
     './index.html',
     './src/**/*.{html,js}',
     './*.{html,js}',
+    './style.css',
   ],
   presets: [],
   darkMode: 'media', // or 'class'
